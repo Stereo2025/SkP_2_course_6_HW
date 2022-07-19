@@ -1,0 +1,5 @@
+Anton: 40
+Graf: 30
+Sara: 30
+Ant: 70
+Anton: 40
